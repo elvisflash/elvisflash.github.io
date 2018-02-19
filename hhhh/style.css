@@ -1,0 +1,48 @@
+
+h2{text-align: center;
+   }
+#one{text-align: left;
+}
+#container{background-image: url(4.gif);}
+.ruby{
+			font-family: algerian;
+			font-size: 15px;
+			margin: left:100px;
+			color: #000000
+		}
+a:hover{
+				background-color: pink;
+			}
+ul{background-color: lightblue;}
+.foot{align-items: center;}
+p{color: purple;background-color: lightblue
+}
+h4{color: purple;
+ background-color: lightblue;
+ }
+ #container1{background-color: yellow; color: purple;
+ 	border-style: solid;padding: 5px;
+ }
+ #container2{background-color: purple; color: yellow;
+ }
+ #logo{background-color:#40658D; 
+      }
+ #FFF{background-color: #42608F; 
+      }
+ #fgh{background-color: #48689B;
+     }
+ #footer{
+			 	background-color: red;
+			 	padding: 20px;
+			 	display: block;
+			 	text-align: center;
+			 	color: #000000;
+			        }
+.faqs{color: #4027AB;
+     }
+h3{color: #1fa059;
+  }
+#sign{background-color: #4c41d1;
+  }
+#abt{background-color: #6594e8;
+    }
